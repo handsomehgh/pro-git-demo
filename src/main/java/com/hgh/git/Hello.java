@@ -7,6 +7,8 @@ public class Hello {
         System.out.println("hello.pro");
         System.out.println("hello.master");
         System.out.println("hello,pushtest");
+        System.out.print("hello,pulltest");
+
 
     }
 }
